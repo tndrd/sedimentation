@@ -1,0 +1,4 @@
+*.avi
+data/raw/
+data/raw_sparse/
+__pycache__/
